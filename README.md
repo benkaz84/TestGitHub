@@ -1,2 +1,2 @@
 # TestGitHub
-Testowe repo
+Testowe repo - pierwsza zmiana w pliczku
